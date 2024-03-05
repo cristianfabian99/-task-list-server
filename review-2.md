@@ -1,0 +1,1 @@
+Estoy desarrollando una aplicación que simplificará la gestión de tareas mediante la creación, edición y eliminación de listas de tareas. Con esta app, los usuarios podrán fácilmente agregar nuevas tareas, marcar aquellas que ya han completado y eliminar las que ya no son relevantes.
